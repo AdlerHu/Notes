@@ -1,0 +1,4 @@
+/etc/resolv.conf
+  DNS
+  nameserver
+  IPv4 DNS 伺服器
